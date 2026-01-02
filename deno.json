@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "til": "deno run --allow-read --allow-write scripts/generate_til.js"
+  }
+}
